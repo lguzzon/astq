@@ -32,7 +32,7 @@
         "grunt-jscs":           "~3.0.1",
         "grunt-mocha-test":     "~0.13.2",
         "grunt-eslint":         "~19.0.0",
-        "babel-eslint":         "~7.1.1",
+        "babel-eslint":         "~7.2.0",
         "mocha":                "~3.2.0",
         "chai":                 "~4.0.0-canary.1",
         "babelify":             "~7.3.0",
