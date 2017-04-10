@@ -2,8 +2,8 @@
     "name":        "astq-sample",
     "version":     "0.0.0",
     "devDependencies": {
-        "babel-cli":            "6.24.0",
-        "babel-preset-es2015":  "6.24.0"
+        "babel-cli":            "6.24.1",
+        "babel-preset-es2015":  "6.24.1"
     },
     "dependencies": {
         "acorn":                "~5.0.3",
